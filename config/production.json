@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "defrazo",
+    "mongoUri": "mongodb+srv://admin:admin123@cluster0.kjnwo.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
